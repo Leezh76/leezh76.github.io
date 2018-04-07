@@ -51,4 +51,4 @@ Lang: zh
 
 ---
 
-<span id="world">这里的“世界”更贴近于荣格的“[集体潜意识](https://zh.wikipedia.org/wiki/%E9%9B%86%E4%BD%93%E6%BD%9C%E6%84%8F%E8%AF%86)”。</span>*
+*<span id="world">世界：这里的“世界”更贴近于荣格的“[集体潜意识](https://zh.wikipedia.org/wiki/%E9%9B%86%E4%BD%93%E6%BD%9C%E6%84%8F%E8%AF%86)”。</span>*
