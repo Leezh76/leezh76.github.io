@@ -5,8 +5,10 @@ permalink: /about/
 categories: about
 ---
 
-About me:
+### 关于我：
 
-​   ***email:***  [lizihong@outlook.com](mailto:lizihong@outlook.com)
+*逃离IM的哲学爱好者，不擅编程的软件学生，内心丰富的冷面人。*
 
-​   ***github:***  [Leezh76](https://github.com/Leezh76)
+​ ***email:***  [lizihong@outlook.com](mailto:lizihong@outlook.com)
+
+​ ***github:***  [Leezh76](https://github.com/Leezh76)
