@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "About"
-author: "Leezh"
 permalink: /about/
 categories: about
 lang: zh
