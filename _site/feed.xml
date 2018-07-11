@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+<feed xmlns="http://www.w3.org/2005/Atom">
   <generator uri="http://jekyllrb.com" version="3.7.2">Jekyll</generator>
   
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh-CN" />
-  <updated>2018-07-10T23:35:25-08:00</updated>
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2018-07-11T17:31:32+08:00</updated>
   <id>http://localhost:4000//</id>
 
   
-    <title type="html">Tale of loser</title>
+    <title type="html">Bard of Ages</title>
   
 
   
@@ -31,8 +31,8 @@
       <title type="html">Value Mannual</title>
       
       <link href="http://localhost:4000/2018/07/09/value-mannual/" rel="alternate" type="text/html" title="Value Mannual" />
-      <published>2018-07-09T00:00:00-08:00</published>
-      <updated>2018-07-09T00:00:00-08:00</updated>
+      <published>2018-07-09T00:00:00+08:00</published>
+      <updated>2018-07-09T00:00:00+08:00</updated>
       <id>http://localhost:4000/2018/07/09/value-mannual</id>
       <content type="html" xml:base="http://localhost:4000/2018/07/09/value-mannual/">&lt;h2&gt;价值手册&lt;/h2&gt;
 
@@ -321,8 +321,8 @@
       <title type="html">verse king</title>
       
       <link href="http://localhost:4000/2018/06/26/Verse-king/" rel="alternate" type="text/html" title="verse king" />
-      <published>2018-06-26T00:00:00-08:00</published>
-      <updated>2018-06-26T00:00:00-08:00</updated>
+      <published>2018-06-26T00:00:00+08:00</published>
+      <updated>2018-06-26T00:00:00+08:00</updated>
       <id>http://localhost:4000/2018/06/26/Verse-king</id>
       <content type="html" xml:base="http://localhost:4000/2018/06/26/Verse-king/">&lt;h3&gt;金句王：芥川龙之介&lt;/h3&gt;
 
@@ -515,8 +515,8 @@
       <title type="html">pearls</title>
       
       <link href="http://localhost:4000/2018/06/10/pearls/" rel="alternate" type="text/html" title="pearls" />
-      <published>2018-06-10T00:00:00-08:00</published>
-      <updated>2018-06-10T00:00:00-08:00</updated>
+      <published>2018-06-10T00:00:00+08:00</published>
+      <updated>2018-06-10T00:00:00+08:00</updated>
       <id>http://localhost:4000/2018/06/10/pearls</id>
       <content type="html" xml:base="http://localhost:4000/2018/06/10/pearls/">&lt;h3&gt;遗珠&lt;/h3&gt;
 
@@ -753,8 +753,8 @@
       <title type="html">Be Yourself</title>
       
       <link href="http://localhost:4000/2018/05/06/Be-Yourself/" rel="alternate" type="text/html" title="Be Yourself" />
-      <published>2018-05-06T00:00:00-08:00</published>
-      <updated>2018-05-06T00:00:00-08:00</updated>
+      <published>2018-05-06T00:00:00+08:00</published>
+      <updated>2018-05-06T00:00:00+08:00</updated>
       <id>http://localhost:4000/2018/05/06/Be-Yourself</id>
       <content type="html" xml:base="http://localhost:4000/2018/05/06/Be-Yourself/">&lt;h3&gt;做自己&lt;/h3&gt;
 
@@ -811,8 +811,8 @@
       <title type="html">Friendship</title>
       
       <link href="http://localhost:4000/2018/04/06/friendship/" rel="alternate" type="text/html" title="Friendship" />
-      <published>2018-04-06T00:00:00-08:00</published>
-      <updated>2018-04-06T00:00:00-08:00</updated>
+      <published>2018-04-06T00:00:00+08:00</published>
+      <updated>2018-04-06T00:00:00+08:00</updated>
       <id>http://localhost:4000/2018/04/06/friendship</id>
       <content type="html" xml:base="http://localhost:4000/2018/04/06/friendship/">&lt;h3&gt;孤独思索&lt;/h3&gt;
 
@@ -887,8 +887,8 @@
       <title type="html">Good Education</title>
       
       <link href="http://localhost:4000/2018/03/04/Good-Education/" rel="alternate" type="text/html" title="Good Education" />
-      <published>2018-03-04T00:00:00-08:00</published>
-      <updated>2018-03-04T00:00:00-08:00</updated>
+      <published>2018-03-04T00:00:00+08:00</published>
+      <updated>2018-03-04T00:00:00+08:00</updated>
       <id>http://localhost:4000/2018/03/04/Good-Education</id>
       <content type="html" xml:base="http://localhost:4000/2018/03/04/Good-Education/">&lt;h2&gt;论好的教育&lt;/h2&gt;
 
@@ -958,8 +958,8 @@
       <title type="html">Sum up</title>
       
       <link href="http://localhost:4000/2017/12/30/Sum-Up/" rel="alternate" type="text/html" title="Sum up" />
-      <published>2017-12-30T00:00:00-08:00</published>
-      <updated>2017-12-30T00:00:00-08:00</updated>
+      <published>2017-12-30T00:00:00+08:00</published>
+      <updated>2017-12-30T00:00:00+08:00</updated>
       <id>http://localhost:4000/2017/12/30/Sum-Up</id>
       <content type="html" xml:base="http://localhost:4000/2017/12/30/Sum-Up/">&lt;h2&gt;总结&lt;/h2&gt;
 
@@ -1031,8 +1031,8 @@
       <title type="html">Confession</title>
       
       <link href="http://localhost:4000/2017/12/10/Confessions/" rel="alternate" type="text/html" title="Confession" />
-      <published>2017-12-10T00:00:00-08:00</published>
-      <updated>2017-12-10T00:00:00-08:00</updated>
+      <published>2017-12-10T00:00:00+08:00</published>
+      <updated>2017-12-10T00:00:00+08:00</updated>
       <id>http://localhost:4000/2017/12/10/Confessions</id>
       <content type="html" xml:base="http://localhost:4000/2017/12/10/Confessions/">&lt;h2&gt;自白&lt;/h2&gt;
 
@@ -1092,8 +1092,8 @@
       <title type="html">Chatter</title>
       
       <link href="http://localhost:4000/2017/11/29/chatter/" rel="alternate" type="text/html" title="Chatter" />
-      <published>2017-11-29T00:00:00-08:00</published>
-      <updated>2017-11-29T00:00:00-08:00</updated>
+      <published>2017-11-29T00:00:00+08:00</published>
+      <updated>2017-11-29T00:00:00+08:00</updated>
       <id>http://localhost:4000/2017/11/29/chatter</id>
       <content type="html" xml:base="http://localhost:4000/2017/11/29/chatter/">&lt;h2&gt;只言片语&lt;/h2&gt;
 
@@ -1183,8 +1183,8 @@
       <title type="html">blind and awaken</title>
       
       <link href="http://localhost:4000/2017/11/19/Blind-public-opinion-and-awaken-us/" rel="alternate" type="text/html" title="blind and awaken" />
-      <published>2017-11-19T00:00:00-08:00</published>
-      <updated>2017-11-19T00:00:00-08:00</updated>
+      <published>2017-11-19T00:00:00+08:00</published>
+      <updated>2017-11-19T00:00:00+08:00</updated>
       <id>http://localhost:4000/2017/11/19/Blind-public-opinion-and-awaken-us</id>
       <content type="html" xml:base="http://localhost:4000/2017/11/19/Blind-public-opinion-and-awaken-us/">&lt;h2&gt;盲目的舆论与清醒的我们&lt;/h2&gt;
 
@@ -1248,8 +1248,8 @@
       <title type="html">How to ask</title>
       
       <link href="http://localhost:4000/2017/11/14/how-to-ask/" rel="alternate" type="text/html" title="How to ask" />
-      <published>2017-11-14T00:00:00-08:00</published>
-      <updated>2017-11-14T00:00:00-08:00</updated>
+      <published>2017-11-14T00:00:00+08:00</published>
+      <updated>2017-11-14T00:00:00+08:00</updated>
       <id>http://localhost:4000/2017/11/14/how-to-ask</id>
       <content type="html" xml:base="http://localhost:4000/2017/11/14/how-to-ask/">&lt;h2&gt;如何提问&lt;/h2&gt;
 
@@ -1314,8 +1314,8 @@
       <title type="html">KNOW YOURSELF</title>
       
       <link href="http://localhost:4000/2017/11/13/know-yourself/" rel="alternate" type="text/html" title="KNOW YOURSELF" />
-      <published>2017-11-13T00:00:00-08:00</published>
-      <updated>2017-11-13T00:00:00-08:00</updated>
+      <published>2017-11-13T00:00:00+08:00</published>
+      <updated>2017-11-13T00:00:00+08:00</updated>
       <id>http://localhost:4000/2017/11/13/know-yourself</id>
       <content type="html" xml:base="http://localhost:4000/2017/11/13/know-yourself/">&lt;h2&gt;认识自己&lt;/h2&gt;
 
