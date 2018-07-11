@@ -5,7 +5,7 @@ layout: default
 
   <h1 class="page-heading">Archive of {{ page.type }} '{{ page.title | escape }}'</h1>
 
-  {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
+  {% capture site_lang %}{{ site.lang | default: "zh" }}{% endcapture %}
 
   <ul class="post-archives">
     {% for post in page.posts %}
