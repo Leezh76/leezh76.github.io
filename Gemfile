@@ -1,3 +1,3 @@
 source "https://rubygems.org"
-gem "ed."
+# gem "ed."
 gemspec

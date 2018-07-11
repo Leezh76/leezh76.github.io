@@ -51,4 +51,4 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
-theme: "ed."
+# theme: "ed."
