@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.7.2">Jekyll</generator>
   
   
-  <link href="https://leezh76.github.io/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://leezh76.github.io/" rel="alternate" type="text/html" />
-  <updated>2018-07-12T13:35:33+08:00</updated>
-  <id>https://leezh76.github.io//</id>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2018-07-14T22:50:39+08:00</updated>
+  <id>http://localhost:4000//</id>
 
   
     <title type="html">Tale of Loser</title>
@@ -26,15 +26,93 @@
 
   
   
+    <entry>
+      
+      <title type="html">Scaffolding and prism</title>
+      
+      <link href="http://localhost:4000/2018/07/14/scaffolding-and-prism/" rel="alternate" type="text/html" title="Scaffolding and prism" />
+      <published>2018-07-14T00:00:00+08:00</published>
+      <updated>2018-07-14T00:00:00+08:00</updated>
+      <id>http://localhost:4000/2018/07/14/scaffolding%20and%20prism</id>
+      <content type="html" xml:base="http://localhost:4000/2018/07/14/scaffolding-and-prism/">&lt;h2&gt;脚手架与棱镜&lt;/h2&gt;
+
+&lt;p&gt;我们会倾向于认为，真理是简单而优美的。即我们通过思考的成果是原子的、简单的、美妙的，且一旦思考成功就能通达于此。也许真理真的如此美妙，但是思考的过程并非像上面一样是一蹴而就、以逸待劳的…&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;正如高楼大厦的脚手架，质料和论证像外骨骼一样支撑着尚未成熟的思想。这个时候的脚手架是高楼不可分割的一部分，且有着巨大的支撑性与复杂性。这里需要指出，真理的支撑并不像脚手架一样能够撤除。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/scaffolding.jpg&quot; alt=&quot;scaffolding&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;支撑机制的不可分割性与复杂性对于使用者可能是透明的，比如你可能不太清楚《超级玛丽》的跳跃的实现机制，但是你游玩的时候会觉得十分自然。而这种看起来简单优美的设计背后的支撑机制却很复杂：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;马里奥是有惯性的，你冲过头之后会有“脚底抹油”的感觉：这是在马里奥停止向前时施加了一个反向的力量。&lt;/li&gt;
+  &lt;li&gt;游戏系统中重力始终存在：你向上跳跃的速度逐步减少到零，然后反向加大。这样你的跳跃更加真实而不呆板。&lt;/li&gt;
+  &lt;li&gt;跳跃的力量与按键时长有关，但超过阈限时间之后会被视作松开：这样比起按下多长时间都会跳起同样高度更加自然，这种蓄力的感觉就像是你的腿部肌肉长在了A键上。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;也许你会意识到，建构一个体系核心的过程可能带着直观的猜度。与脚手架的支撑不太相同的是，我在建构的时候往往带着直达结果的猜度，就像是光线瞬间穿越了棱镜。一种并不重视时间相继的瞬时效果取代了缓慢而稳定的建构过程，这就是常人所谓的“灵光一闪”。超越性的直观带着草率与莽撞映射出美丽的海市蜃楼，这种省力的方式像极了我上面猜测的真理的性质。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/prism.jpg&quot; alt=&quot;prism&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;然而这种建构过程充斥着个人的情感状态、尚未消化的术语、顾影自怜的自恋、不断发酵的自大。妄图容纳世界的我做出一系列的断言，自大的气泡开始膨胀，直到有人戳破。我空有直观的理念，而缺少承载直观的形式…&lt;/p&gt;
+
+&lt;p&gt;形而上的建构也能用这种棱镜与脚手架的分类做出一个不精确的区分。我个人更倾向于前者，从柏拉图、叔本华、尼采到福柯众人，他们的文字更具有承载力，承载得住他们沉重的思想，给人一种文质兼美的愉悦感受。而相对的，亚里士多德、休谟、斯宾诺莎这种人的勤勉思索虽然有建构性但略显单调。&lt;/p&gt;
+
+&lt;p&gt;而对于读者来说，我的单薄文字并不能超越质料来直抵心灵。这是我在文学上的败北，然而自暴自弃地将思考的产物挥洒出来对读者不公平。这就像是我爬上了高墙然后一脚踢掉了梯子。日后我会稀释我的表述，为了读者能够了解我思想的全貌，能够自行取舍。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4&gt;后记&lt;/h4&gt;
+
+&lt;p&gt;试图容纳世界会使得自己的思想扭曲，但控制得当依然能够得到新知。质料在这里反哺了思想。&lt;/p&gt;
+
+&lt;p&gt;我从维基百科了解到，脚手架在重建的时候也很常用。这暗示着批判与重构更加需要脚手架的结构，考察一个思想的稳定性确实很需要进行一番脚手架式的详细论证。&lt;/p&gt;
+
+&lt;p&gt;另外，在脚手架上作业具有很高的危险性，不稳定的钢架结构与太高的位置都会威胁到工人的生命。而对应到思考上，这对应着某些思考尝试受到了思维结构的限制，再进行下去就会导致思维的自我否定。&lt;/p&gt;
+
+&lt;p&gt;脚手架的结构一般来说不应该比其支撑的结构复杂。如果建筑简单而脚手架极其复杂难搞，就有一种本末倒置的感觉。如果真理是简单的，那么脚手架应该更加简单才是。而探寻真理行为的复杂性暗示着真理的多元化与复杂性。&lt;/p&gt;
+
+&lt;p&gt;脚手架在计算机编程上的对应物：元编程。市面上广为流传的SSM架构、Ruby on Rails都是些脚手架。我认为就算是脚手架也应该遵循某种规范，而很多编程范式不合格：要么提供了太多细节、要么就是两可的叙述、还有恶心的配置。这仿佛暗示着设计的设计，一种难度与复杂度的分层演进…&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Leezh</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+
+      
+        <summary type="html">脚手架与棱镜 我们会倾向于认为，真理是简单而优美的。即我们通过思考的成果是原子的、简单的、美妙的，且一旦思考成功就能通达于此。也许真理真的如此美妙，但是思考的过程并非像上面一样是一蹴而就、以逸待劳的…</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
     <entry xml:lang="zh">
       
       <title type="html">verse king</title>
       
-      <link href="https://leezh76.github.io/2018/06/26/Verse-king/" rel="alternate" type="text/html" title="verse king" />
+      <link href="http://localhost:4000/2018/06/26/Verse-king/" rel="alternate" type="text/html" title="verse king" />
       <published>2018-06-26T00:00:00+08:00</published>
       <updated>2018-06-26T00:00:00+08:00</updated>
-      <id>https://leezh76.github.io/2018/06/26/Verse-king</id>
-      <content type="html" xml:base="https://leezh76.github.io/2018/06/26/Verse-king/">&lt;h3&gt;金句王：芥川龙之介&lt;/h3&gt;
+      <id>http://localhost:4000/2018/06/26/Verse-king</id>
+      <content type="html" xml:base="http://localhost:4000/2018/06/26/Verse-king/">&lt;h3&gt;金句王：芥川龙之介&lt;/h3&gt;
 
 &lt;p&gt;《罗生门》妙趣横生，尤其是其中一篇《侏儒的话》堪称经典，有&lt;a href=&quot;https://zh.wikipedia.org/wiki/巴洛克艺术#词源&quot;&gt;巴洛克&lt;/a&gt;的大小珍珠并陈之美。遂选取部分摘录如下。&lt;/p&gt;
 
@@ -224,11 +302,11 @@
       
       <title type="html">pearls</title>
       
-      <link href="https://leezh76.github.io/2018/06/10/pearls/" rel="alternate" type="text/html" title="pearls" />
+      <link href="http://localhost:4000/2018/06/10/pearls/" rel="alternate" type="text/html" title="pearls" />
       <published>2018-06-10T00:00:00+08:00</published>
       <updated>2018-06-10T00:00:00+08:00</updated>
-      <id>https://leezh76.github.io/2018/06/10/pearls</id>
-      <content type="html" xml:base="https://leezh76.github.io/2018/06/10/pearls/">&lt;h3&gt;遗珠&lt;/h3&gt;
+      <id>http://localhost:4000/2018/06/10/pearls</id>
+      <content type="html" xml:base="http://localhost:4000/2018/06/10/pearls/">&lt;h3&gt;遗珠&lt;/h3&gt;
 
 &lt;p&gt;​	我很像一个沙滩上的小男孩，捡起古旧的贝壳并喜不自胜… 但美丽而崇高的事物并不应该被埋没，我希望自己能够成为引路人，让艺术和思想传递下去。&lt;/p&gt;
 
@@ -462,11 +540,11 @@
       
       <title type="html">Be Yourself</title>
       
-      <link href="https://leezh76.github.io/2018/05/06/Be-Yourself/" rel="alternate" type="text/html" title="Be Yourself" />
+      <link href="http://localhost:4000/2018/05/06/Be-Yourself/" rel="alternate" type="text/html" title="Be Yourself" />
       <published>2018-05-06T00:00:00+08:00</published>
       <updated>2018-05-06T00:00:00+08:00</updated>
-      <id>https://leezh76.github.io/2018/05/06/Be-Yourself</id>
-      <content type="html" xml:base="https://leezh76.github.io/2018/05/06/Be-Yourself/">&lt;h3&gt;做自己&lt;/h3&gt;
+      <id>http://localhost:4000/2018/05/06/Be-Yourself</id>
+      <content type="html" xml:base="http://localhost:4000/2018/05/06/Be-Yourself/">&lt;h3&gt;做自己&lt;/h3&gt;
 
 &lt;p&gt;做自己真的是一件很困难的事情，需要坚定的信念、恒久的耐心以及惊人的勇气。&lt;/p&gt;
 
@@ -520,11 +598,11 @@
       
       <title type="html">Friendship</title>
       
-      <link href="https://leezh76.github.io/2018/04/06/friendship/" rel="alternate" type="text/html" title="Friendship" />
+      <link href="http://localhost:4000/2018/04/06/friendship/" rel="alternate" type="text/html" title="Friendship" />
       <published>2018-04-06T00:00:00+08:00</published>
       <updated>2018-04-06T00:00:00+08:00</updated>
-      <id>https://leezh76.github.io/2018/04/06/friendship</id>
-      <content type="html" xml:base="https://leezh76.github.io/2018/04/06/friendship/">&lt;h3&gt;孤独思索&lt;/h3&gt;
+      <id>http://localhost:4000/2018/04/06/friendship</id>
+      <content type="html" xml:base="http://localhost:4000/2018/04/06/friendship/">&lt;h3&gt;孤独思索&lt;/h3&gt;
 
 &lt;p&gt;前几天终结了对我意义非凡的友情，五味杂陈。维持没有利益冲突的友谊令人愉悦，但也十分困难。现在我又是孤身一人了…&lt;/p&gt;
 
@@ -596,11 +674,11 @@
       
       <title type="html">Good Education</title>
       
-      <link href="https://leezh76.github.io/2018/03/04/Good-Education/" rel="alternate" type="text/html" title="Good Education" />
+      <link href="http://localhost:4000/2018/03/04/Good-Education/" rel="alternate" type="text/html" title="Good Education" />
       <published>2018-03-04T00:00:00+08:00</published>
       <updated>2018-03-04T00:00:00+08:00</updated>
-      <id>https://leezh76.github.io/2018/03/04/Good-Education</id>
-      <content type="html" xml:base="https://leezh76.github.io/2018/03/04/Good-Education/">&lt;h2&gt;论好的教育&lt;/h2&gt;
+      <id>http://localhost:4000/2018/03/04/Good-Education</id>
+      <content type="html" xml:base="http://localhost:4000/2018/03/04/Good-Education/">&lt;h2&gt;论好的教育&lt;/h2&gt;
 
 &lt;p&gt;因为个人能力和社会环境等原因，我接受了很不好的教育，我想讨论一下原因和解决方案。说来讽刺，我曾说过我不愿意做回顾，而现在我又要开始了，从我的经历说起。
 &lt;!-- more --&gt;&lt;/p&gt;
@@ -667,11 +745,11 @@
       
       <title type="html">Sum up</title>
       
-      <link href="https://leezh76.github.io/2017/12/30/Sum-Up/" rel="alternate" type="text/html" title="Sum up" />
+      <link href="http://localhost:4000/2017/12/30/Sum-Up/" rel="alternate" type="text/html" title="Sum up" />
       <published>2017-12-30T00:00:00+08:00</published>
       <updated>2017-12-30T00:00:00+08:00</updated>
-      <id>https://leezh76.github.io/2017/12/30/Sum-Up</id>
-      <content type="html" xml:base="https://leezh76.github.io/2017/12/30/Sum-Up/">&lt;h2&gt;总结&lt;/h2&gt;
+      <id>http://localhost:4000/2017/12/30/Sum-Up</id>
+      <content type="html" xml:base="http://localhost:4000/2017/12/30/Sum-Up/">&lt;h2&gt;总结&lt;/h2&gt;
 
 &lt;p&gt;人类因为健忘和短命而做记录，以供自己或后代参照，阅读历史的人呈现出一种滑稽的向前走但向后扭着头的姿态。我不太会回头看，所以我不常做总结。意外的是，我恰巧是个怀旧的人，虽然只能看到不真切的过往，某些片段却因为遗忘变得更加鲜明起来…
 &lt;!-- more --&gt;&lt;/p&gt;
@@ -740,11 +818,11 @@
       
       <title type="html">Confession</title>
       
-      <link href="https://leezh76.github.io/2017/12/10/Confessions/" rel="alternate" type="text/html" title="Confession" />
+      <link href="http://localhost:4000/2017/12/10/Confessions/" rel="alternate" type="text/html" title="Confession" />
       <published>2017-12-10T00:00:00+08:00</published>
       <updated>2017-12-10T00:00:00+08:00</updated>
-      <id>https://leezh76.github.io/2017/12/10/Confessions</id>
-      <content type="html" xml:base="https://leezh76.github.io/2017/12/10/Confessions/">&lt;h2&gt;自白&lt;/h2&gt;
+      <id>http://localhost:4000/2017/12/10/Confessions</id>
+      <content type="html" xml:base="http://localhost:4000/2017/12/10/Confessions/">&lt;h2&gt;自白&lt;/h2&gt;
 
 &lt;p&gt;作为功利而忙碌的现代人类，我们会常常考虑做一件事情的代价与收益，有时候会因为预期不做或硬着头皮做一些事。这种“&lt;strong&gt;比较&lt;/strong&gt;”和“&lt;strong&gt;强迫&lt;/strong&gt;”的天性可能是人类进化的压力所致，即情感生成的社会性，与自身的“&lt;strong&gt;软弱&lt;/strong&gt;”作对，黏在身上甩也甩不掉。&lt;/p&gt;
 
@@ -801,11 +879,11 @@
       
       <title type="html">Chatter</title>
       
-      <link href="https://leezh76.github.io/2017/11/29/chatter/" rel="alternate" type="text/html" title="Chatter" />
+      <link href="http://localhost:4000/2017/11/29/chatter/" rel="alternate" type="text/html" title="Chatter" />
       <published>2017-11-29T00:00:00+08:00</published>
       <updated>2017-11-29T00:00:00+08:00</updated>
-      <id>https://leezh76.github.io/2017/11/29/chatter</id>
-      <content type="html" xml:base="https://leezh76.github.io/2017/11/29/chatter/">&lt;h2&gt;只言片语&lt;/h2&gt;
+      <id>http://localhost:4000/2017/11/29/chatter</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/29/chatter/">&lt;h2&gt;只言片语&lt;/h2&gt;
 
 &lt;p&gt;博客搁置了一段时间，除去琐事缠身和消沉，也有一定的思考和反省。
 &lt;!-- more --&gt;
@@ -892,11 +970,11 @@
       
       <title type="html">blind and awaken</title>
       
-      <link href="https://leezh76.github.io/2017/11/19/Blind-public-opinion-and-awaken-us/" rel="alternate" type="text/html" title="blind and awaken" />
+      <link href="http://localhost:4000/2017/11/19/Blind-public-opinion-and-awaken-us/" rel="alternate" type="text/html" title="blind and awaken" />
       <published>2017-11-19T00:00:00+08:00</published>
       <updated>2017-11-19T00:00:00+08:00</updated>
-      <id>https://leezh76.github.io/2017/11/19/Blind-public-opinion-and-awaken-us</id>
-      <content type="html" xml:base="https://leezh76.github.io/2017/11/19/Blind-public-opinion-and-awaken-us/">&lt;h2&gt;盲目的舆论与清醒的我们&lt;/h2&gt;
+      <id>http://localhost:4000/2017/11/19/Blind-public-opinion-and-awaken-us</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/19/Blind-public-opinion-and-awaken-us/">&lt;h2&gt;盲目的舆论与清醒的我们&lt;/h2&gt;
 
 &lt;p&gt;了解到4chan上的一个活动：网民们自发的张贴一些海报，上面的内容只是简单的”It’s okay to be white”。此举引发了轩然大波，某些美国人民震怒，彷彿种族歧视又开始肆虐，人们又回到了对有色人种进行迫害和打压的时代。然而对有色人种的歧视是对人权的蔑视，有害生存和发展，其增长的内耗对于社会资源也是一种浪费，于是这种态度早就被摒弃了。&lt;/p&gt;
 
@@ -957,11 +1035,11 @@
       
       <title type="html">How to ask</title>
       
-      <link href="https://leezh76.github.io/2017/11/14/how-to-ask/" rel="alternate" type="text/html" title="How to ask" />
+      <link href="http://localhost:4000/2017/11/14/how-to-ask/" rel="alternate" type="text/html" title="How to ask" />
       <published>2017-11-14T00:00:00+08:00</published>
       <updated>2017-11-14T00:00:00+08:00</updated>
-      <id>https://leezh76.github.io/2017/11/14/how-to-ask</id>
-      <content type="html" xml:base="https://leezh76.github.io/2017/11/14/how-to-ask/">&lt;h2&gt;如何提问&lt;/h2&gt;
+      <id>http://localhost:4000/2017/11/14/how-to-ask</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/14/how-to-ask/">&lt;h2&gt;如何提问&lt;/h2&gt;
 
 &lt;p&gt;这篇文章来自于我的朋友的抱怨：“你的问题表述不清楚，以后提问还是发邮件好了”。当时我很恼火，我的问题难道很难解决吗？还是那个朋友故意推脱？&lt;/p&gt;
 
@@ -1023,11 +1101,11 @@
       
       <title type="html">KNOW YOURSELF</title>
       
-      <link href="https://leezh76.github.io/2017/11/13/know-yourself/" rel="alternate" type="text/html" title="KNOW YOURSELF" />
+      <link href="http://localhost:4000/2017/11/13/know-yourself/" rel="alternate" type="text/html" title="KNOW YOURSELF" />
       <published>2017-11-13T00:00:00+08:00</published>
       <updated>2017-11-13T00:00:00+08:00</updated>
-      <id>https://leezh76.github.io/2017/11/13/know-yourself</id>
-      <content type="html" xml:base="https://leezh76.github.io/2017/11/13/know-yourself/">&lt;h2&gt;认识自己&lt;/h2&gt;
+      <id>http://localhost:4000/2017/11/13/know-yourself</id>
+      <content type="html" xml:base="http://localhost:4000/2017/11/13/know-yourself/">&lt;h2&gt;认识自己&lt;/h2&gt;
 
 &lt;p&gt;为了填满漫长而无目的的人生，人们用各种方式排解无聊。&lt;/p&gt;
 
