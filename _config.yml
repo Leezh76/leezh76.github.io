@@ -1,10 +1,12 @@
-name: "Jekyll true minimal theme"
-description: "Lightweight theme"
+name: "Chasing"
+description: "What is really important?"
+author: "leezh"
+url: 'https://leezh76.github.io' 
+# baseurl: ''
 
-url: '' 
-baseurl: ''
 
 markdown: kramdown
+excerpt_separator: "<!-- more -->"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 
@@ -14,8 +16,9 @@ kramdown:
 
 plugins:
   - jekyll-paginate
-paginate: 10
+paginate: 7
 paginate_path: /page-:num
+
 
 #disqus-id: your-disqus-id
 
