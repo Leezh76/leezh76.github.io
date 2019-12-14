@@ -1,6 +1,26 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit whiteglass' home layout instead if you want to make some changes.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
 ---
+
+{% for post in paginator.posts %}
+<section>
+  <h2>
+    <a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>
+      {{ post.title }}
+    </a>
+  </h2>
+  
+  <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
+</section>       
+{% endfor %}
+
+{% if paginator.previous_page %}
+<a href='{{ site.url }}{{ paginator.previous_page_path }}'>Previous</a>
+{% endif %}
+
+&mdash; {{ paginator.page }} of {{ paginator.total_pages }} &mdash;
+
+{% if paginator.next_page %}
+<a href='{{ site.url }}{{ paginator.next_page_path }}'>Next</a>
+{% endif %}
+

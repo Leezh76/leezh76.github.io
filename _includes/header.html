@@ -1,20 +1,5 @@
-<header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
-    <nav class="site-nav">
-      {% for link in site.data.navigation.main %}
-        {% if link.url contains "http" %}
-          {% assign url = link.url %}
-        {% else %}
-          {% assign url = link.url | relative_url %}
-        {% endif %}
-        <a class="page-link" href="{{ url }}">{{ link.title }}</a>
-      {% endfor %}
-    </nav>
-
-  </div>
-
+<header>
+    <h1><a href='{{ site.url }}/'>{{ site.name }}</a></h1>
 </header>
+<a href='{{ site.url }}/'> Home</a> | <a href='{{ site.url }}/about/'>About </a> | <a href='{{ site.url }}/contact/'> Contacts</a> | <a href='{{ site.url }}/archive/'> Archive</a> 
+<hr>
